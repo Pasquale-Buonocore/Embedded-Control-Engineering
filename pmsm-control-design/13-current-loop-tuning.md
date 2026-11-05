@@ -1,4 +1,4 @@
-# Lesson M05 — Tuning the Current Loops
+# Lesson 13 — Tuning the Current Loops
 
 ## Goal
 

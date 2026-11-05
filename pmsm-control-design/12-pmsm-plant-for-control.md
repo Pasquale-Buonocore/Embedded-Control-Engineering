@@ -1,4 +1,4 @@
-# Lesson M04 — PMSM Plant for Control
+# Lesson 12 — PMSM Plant for Control
 
 ## Goal
 

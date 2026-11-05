@@ -1,4 +1,4 @@
-# Lesson M07 — Tuning the Position Loop
+# Lesson 15 — Tuning the Position Loop
 
 ## Goal
 

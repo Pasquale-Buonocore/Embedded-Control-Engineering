@@ -1,4 +1,4 @@
-# Lesson M08 — Validating the Complete Drive
+# Lesson 16 — Validating the Complete Drive
 
 ## Goal
 

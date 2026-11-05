@@ -6,11 +6,11 @@ Prerequisites: [Automatic Control 01–08](../automatic-control/README.md). Exam
 
 ## Lessons
 
-- [Lesson M01 — What Should Feedback Achieve?](M01-feedback-objectives.md)
-- [Lesson M02 — Poles, Zeros, and Controller Design](M02-poles-zeros-and-controller-design.md)
-- [Lesson M03 — Tuning a PI/PID in General](M03-general-pi-pid-tuning.md)
-- [Lesson M04 — PMSM Plant for Control](M04-pmsm-plant-for-control.md)
-- [Lesson M05 — Tuning the Current Loops](M05-current-loop-tuning.md)
-- [Lesson M06 — Tuning the Speed Loop](M06-speed-loop-tuning.md)
-- [Lesson M07 — Tuning the Position Loop](M07-position-loop-tuning.md)
-- [Lesson M08 — Validating the Complete Drive](M08-drive-validation.md)
+- [Lesson 09 — What Should Feedback Achieve?](09-feedback-objectives.md)
+- [Lesson 10 — Poles, Zeros, and Controller Design](10-poles-zeros-and-controller-design.md)
+- [Lesson 11 — Tuning a PI/PID in General](11-general-pi-pid-tuning.md)
+- [Lesson 12 — PMSM Plant for Control](12-pmsm-plant-for-control.md)
+- [Lesson 13 — Tuning the Current Loops](13-current-loop-tuning.md)
+- [Lesson 14 — Tuning the Speed Loop](14-speed-loop-tuning.md)
+- [Lesson 15 — Tuning the Position Loop](15-position-loop-tuning.md)
+- [Lesson 16 — Validating the Complete Drive](16-drive-validation.md)

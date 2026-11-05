@@ -1,4 +1,4 @@
-# Lesson M03 — Tuning a PI/PID in General
+# Lesson 11 — Tuning a PI/PID in General
 
 ## Goal
 

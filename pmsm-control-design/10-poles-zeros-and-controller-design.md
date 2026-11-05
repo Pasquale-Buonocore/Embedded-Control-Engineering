@@ -1,4 +1,4 @@
-# Lesson M02 — Poles, Zeros, and Controller Design
+# Lesson 10 — Poles, Zeros, and Controller Design
 
 ## Goal
 

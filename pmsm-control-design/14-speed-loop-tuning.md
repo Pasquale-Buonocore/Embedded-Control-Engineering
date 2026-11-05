@@ -1,4 +1,4 @@
-# Lesson M06 — Tuning the Speed Loop
+# Lesson 14 — Tuning the Speed Loop
 
 ## Goal
 

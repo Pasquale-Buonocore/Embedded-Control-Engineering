@@ -6,6 +6,6 @@ Prerequisites: linear state-space models (`ẋ = Ax + Bu`, `y = Cx + Du`), eigen
 
 ## Lessons
 
-- [Lesson 22 — Linear Quadratic Regulator](22-linear-quadratic-regulator.md)
-- [Lesson 23 — Luenberger Observer](23-luenberger-observer.md)
-- [Lesson 24 — Kalman State Estimator](24-kalman-state-estimator.md)
+- [Lesson 30 — Linear Quadratic Regulator](30-linear-quadratic-regulator.md)
+- [Lesson 31 — Luenberger Observer](31-luenberger-observer.md)
+- [Lesson 32 — Kalman State Estimator](32-kalman-state-estimator.md)
