@@ -2,7 +2,9 @@
 
 Foundations of classical control, from transfer functions to discrete controllers.
 
-Future examples in this area will use generic first- and second-order systems.
+Future examples in this area will use generic first- and second-order systems. The lessons should answer what a controller is meant to achieve before introducing tuning formulas: steady-state accuracy, transient response, disturbance rejection, stability margins, and sensitivity to noise and model error.
+
+In particular, lessons 04–06 should develop the meaning of poles, zeros, root locus, and loop shaping. A controller zero may approximately cancel a known plant pole in a nominal model, but exact cancellation is fragile when parameters vary or delays are present. PI/PID tuning should be compared through pole placement, frequency-domain design, and measured step-response methods, with explicit units and performance targets. Lessons 07–08 then add saturation, anti-windup, sampling, and computational/PWM delay. The [PMSM Control Design](../pmsm-control-design/README.md) track applies these ideas to motor loops.
 
 ## Lessons
 
